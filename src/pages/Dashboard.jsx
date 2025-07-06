@@ -1,3 +1,9 @@
+import { Link } from "react-router-dom"
+
 export default function Dashboard() {
-    return <h1>Welcome to to DevBoard Dashboard</h1>
+    return (
+        <div>
+            <h1>Welcome to to DevBoard Dashboard</h1>
+        </div>
+    )
 }
